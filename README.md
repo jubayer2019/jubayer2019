@@ -1,24 +1,11 @@
 <!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1E3F,100:1E90FF&height=250&section=header&text=Jubayer%20Khan%20Akash&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<p align="center"><img src="jubayerbanner.png" alt="Banner" width="100%"></p>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&center=true&vCenter=true&lines=Junior+Web+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+Apps;Clean+UI+%26+Smooth+UX" />
 </p>
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend-1E90FF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Clean-0B1E3F?style=for-the-badge&logo=javascript&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/Design-Modern-1E90FF?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=1E90FF&style=for-the-badge" />
-</p>
 
 ---
 
@@ -28,7 +15,7 @@
 ---
 
 ## 🧑‍💻 About Me  
-I am a passionate Junior Web Developer who enjoys building clean, modern, and user-friendly web applications. I am constantly learning new technologies and improving my skills to create better digital experiences.
+Passionate Junior Web Developer with a strong interest in creating clean, efficient, and visually appealing web applications. I specialize in frontend development using React, Next.js, and Tailwind CSS, and I am committed to continuous learning and growth.
 
 ---
 
@@ -51,39 +38,15 @@ I am a passionate Junior Web Developer who enjoys building clean, modern, and us
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://linkedin.com/">
+  <a href="https://www.linkedin.com/in/pro-jubayer/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
-  <a href="https://tiktok.com/">
-    <img src="https://cdn.simpleicons.org/tiktok/1E90FF" width="45"/>
+  <a href="https://web.facebook.com/jubayer.info360/">
+    <img src="https://cdn.simpleicons.org/facebook/1E90FF" width="45"/>
   </a>
-  <a href="https://snapchat.com/">
-    <img src="https://cdn.simpleicons.org/snapchat/1E90FF" width="45"/>
+  <a href="https://www.upwork.com/freelancers/~01a3faefd91b492f9d">
+    <img src="https://cdn.simpleicons.org/upwork/1E90FF" width="45"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff&bg_color=0B1E3F" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&background=0B1E3F" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=1E90FF&text_color=ffffff&bg_color=0B1E3F" />
-</p>
-
----
-
-## 🏆 Achievements  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=5" />
 </p>
 
 ---
@@ -92,15 +55,3 @@ I am a passionate Junior Web Developer who enjoys building clean, modern, and us
 💡 I love turning ideas into **beautiful, fast, and user-friendly web applications**.
 
 ---
-
-## 🔵 Theme Details  
-- Primary Color: `#1E90FF`  
-- Background: `#0B1E3F`  
-- Style: Dark + Neon Blue + Modern UI  
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0B1E3F&height=120&section=footer"/>
-</p>
