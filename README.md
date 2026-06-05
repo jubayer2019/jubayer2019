@@ -10,12 +10,12 @@
 ---
 
 # 👋 Hi, I'm Jubayer Khan Akash  
-### 💼 Junior Web Developer  
+### 💼 Full Stack Web Developer  
 
 ---
 
 ## 🧑‍💻 About Me  
-Passionate Junior Web Developer with a strong interest in creating clean, efficient, and visually appealing web applications. I specialize in frontend development using React, Next.js, and Tailwind CSS, and I am committed to continuous learning and growth.
+Passionate Full Stack Web Developer with a strong interest in creating clean, efficient, and visually appealing web applications. I specialize in frontend development using React, Next.js, and Tailwind CSS, and I am committed to continuous learning and growth.
 
 ---
 
