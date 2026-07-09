@@ -1,4 +1,3 @@
-```md
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="jubayerbanner.png" alt="Jubayer Khan Akash Banner" width="100%" />
@@ -110,24 +109,6 @@ https://dev-jubayer.vercel.app
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pro-jubayer&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-jubayer&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=pro-jubayer&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🎯 Goals for 2026
 
 - 🚀 Become an expert MERN Stack Developer
@@ -145,19 +126,23 @@ https://dev-jubayer.vercel.app
 <a href="https://www.linkedin.com/in/pro-jubayer/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
 </a>
+</p>
 
-&nbsp;&nbsp;
 
+
+
+<p align="center">
 <a href="https://web.facebook.com/jubayer.info360/" target="_blank">
 <img src="https://cdn.simpleicons.org/facebook/1877F2" width="45"/>
 </a>
+</p>
 
-&nbsp;&nbsp;
 
+
+<p align="center">
 <a href="https://www.upwork.com/freelancers/~01a3faefd91b492f9d" target="_blank">
 <img src="https://cdn.simpleicons.org/upwork/14A800" width="45"/>
 </a>
-
 </p>
 
 ---
@@ -175,4 +160,3 @@ https://dev-jubayer.vercel.app
 If you like my work, consider ⭐ starring my repositories and connecting with me.
 
 </p>
-```
